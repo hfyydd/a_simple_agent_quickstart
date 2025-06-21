@@ -36,7 +36,7 @@ src/
 
 1. **克隆仓库**
    ```bash
-   git clone <你的仓库地址>
+   git clone https://github.com/hfyydd/a_simple_agent_quickstart.git
    cd a_simple_agent_quickstart
    ```
 
