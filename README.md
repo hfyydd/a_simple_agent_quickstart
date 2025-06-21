@@ -36,7 +36,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/hfyydd/a_simple_agent_quickstart.git
    cd a_simple_agent_quickstart
    ```
 
